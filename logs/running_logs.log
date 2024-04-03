@@ -1,0 +1,8 @@
+[2024-01-31 21:29:32,861: WARNING: _internal:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.]
+[2024-01-31 21:29:32,863: INFO: _internal:  * Running on http://192.168.1.181:8080/ (Press CTRL+C to quit)]
+[2024-02-01 13:50:00,713: WARNING: _internal:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.]
+[2024-02-01 13:50:00,714: INFO: _internal:  * Running on http://10.136.1.199:8080/ (Press CTRL+C to quit)]
+[2024-02-01 13:50:40,080: INFO: _internal: 10.136.1.199 - - [01/Feb/2024 13:50:40] "GET / HTTP/1.1" 200 -]
+[2024-02-01 13:51:39,864: INFO: _internal: 10.136.1.199 - - [01/Feb/2024 13:51:39] "POST /predict HTTP/1.1" 200 -]
